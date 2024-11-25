@@ -4,4 +4,5 @@ Speecially for Windows 10 out of support machines
 ### Watch/Star Repo or Follow Org to get notified when progress starts
 # Roadmap
 Development Starts this Winter '24
+Join Us om [Discord](https://discord.gg/nPVgAzHcnn)
 
