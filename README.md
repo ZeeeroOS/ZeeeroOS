@@ -1,9 +1,13 @@
 # ZeeeroOS
 Future Place of ZeeeroOS - A Windows 11/10 alternative
-Speecially for Windows 10 out of support machines
-### Watch/Star Repo or Follow Org to get notified when progress starts
+
+
+Focussed on Windows 10 out of support machines
+
 # Roadmap
 Development Starts this Winter '24
 
+Latest News:
+Developemnt for ZeeeroOS has started
 Join Us on [Discord](https://discord.gg/nPVgAzHcnn)
 
