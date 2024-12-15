@@ -8,6 +8,6 @@ Focussed on Windows 10 out of support machines
 Development Starts this Winter '24
 
 Latest News:
-Developemnt for ZeeeroOS has started
+Development for ZeeeroOS has started
 Join Us on [Discord](https://discord.gg/nPVgAzHcnn)
 
