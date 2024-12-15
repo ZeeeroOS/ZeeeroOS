@@ -1,5 +1,5 @@
 # ZeeeroOS
-Future Place of ZeeeroOS - A Windows 11/10 alternative
+ZeeeroOS - A Windows 11/10 alternative
 
 
 Focussed on Windows 10 out of support machines
